@@ -1,4 +1,5 @@
-def addition(num1, num2)
-  num1.addition(num2)
+def addition(5,4)
+  sum = 5 + 4
+  puts sum
+  end
 end
-addition
